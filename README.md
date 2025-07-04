@@ -29,7 +29,7 @@ SIMPRAK adalah sistem informasi berbasis web yang digunakan untuk mengelola pros
 ## 🔁 Pengujian Fitur CRUD
 
 ### 🔧 Test CRUD - Kelola Akun
-![Test CRUD Akun](ss/test_crudkelolaakun.png)
+![Test CRUD Akun](ss/test_curdkelolaakun.png)
 
 ### 🔧 Test CRUD - Kelola Praktikum
 ![Test CRUD Praktikum](ss/test_crud.png)
