@@ -6,7 +6,7 @@ SIMPRAK adalah sistem informasi berbasis web yang digunakan untuk mengelola pros
 
 ## 🖼️ Tampilan Aplikasi (Alur Lengkap)
 
-### 1️⃣ Registrasi
+### 1️⃣ Regristasi
 ![Registrasi](ss/regristasi.png)
 
 ### 2️⃣ Login
