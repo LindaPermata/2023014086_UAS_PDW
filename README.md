@@ -13,7 +13,7 @@ SIMPRAK adalah sistem informasi berbasis web yang digunakan untuk mengelola pros
 ![Login](ss/login.png)
 
 ### 3️⃣ Dashboard Asisten
-![Dashboard Asisten](ss/dashboard_asisten1.png)
+![Dashboard Asisten](‎ss/dahsboard_asisten1.png)
 
 ### 4️⃣ Kelola Modul
 ![Kelola Modul](ss/kelola_modul.png)
